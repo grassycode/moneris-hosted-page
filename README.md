@@ -12,7 +12,7 @@ Username: demouser
 store Id: store3
 password: password
 
-#In homepage of store page:
+## In homepage of store page:
 Admin > Hosted Page Config > Search 'moneris-hosted-page' 
 
 Please don't delete this config.	
